@@ -65,7 +65,8 @@ section {
     background-color: var(--rojo-inem);
     color: white;
     padding: 15px;
-    border: none;
+    /*border: none;*/
+    border: 3px solid var
     border-radius: 8px;
     font-weight: bold;
     cursor: pointer;
